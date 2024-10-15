@@ -73,7 +73,7 @@
 
       const date = new Date();
       const beijingTime = new Date(date.getTime() + (8 * 60 * 60 * 1000));
-      info.textContent = `FPS: ${fps} \n 实际FPS: ${Math.round(fps)} \n TIME: ${beijingTime.toLocaleTimeString()} \n 分辨率: ${window.screen.width}x${window.screen.height}`;
+      info.textContent = `FPS: ${fps} \n 实际FPS: ${Math.round(fps)} \n 北京时间: ${beijingTime.toLocaleTimeString()} \n 分辨率: ${window.screen.width}x${window.screen.height}`;
     }
 
     rotationX += rotationSpeed;
