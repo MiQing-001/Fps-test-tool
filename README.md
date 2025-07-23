@@ -1,3 +1,12 @@
-关于FPS检测网页
-演示网站https://xiaomoloveslearning.github.io/XiaoMoloveslearning1.github.io/
-欢迎使用FPS测试
+# About Me 
+This website is used to test fps
+website is built with html and is open source.
+<hr>
+
+### Languages & Skills
+
+[![My Langs](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+### Learning
+
+[![My Langs](https://skillicons.dev/icons?i=cpp,c,c++)](https://skillicons.dev)
