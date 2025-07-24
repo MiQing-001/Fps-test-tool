@@ -1,3 +1,5 @@
+[**English**](README.md)
+
 # 关于我
 本网站用于测试FPS
 网站使用HTML构建并且开源
